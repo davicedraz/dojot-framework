@@ -1,0 +1,34 @@
+{
+  "name": "dojot-framework",
+  "version": "1.1.2",
+  "description": "A usefull framework to support any Nodejs application that intends to communicate with Dojot platform",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "sucrase ./lib -d ./build --transforms typescript,imports",
+    "test": "jest",
+    "posttest": "",
+    "test:manual": "node test//examples//app.js",
+    "build": "sucrase ./lib -d ./build --transforms typescript,imports"
+  },
+  "keywords": [
+    "dojot",
+    "iot"
+  ],
+  "author": {
+    "name": "Davi Cedraz",
+    "email": "davioler@gmail.com.com.br",
+    "url": "https://www.linkedin.com/in/davicedraz/"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "socket.io-client": "^2.2.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "nodemon": "^1.18.10",
+    "sucrase": "^3.10.1",
+    "typescript": "^3.6.4"
+  }
+}

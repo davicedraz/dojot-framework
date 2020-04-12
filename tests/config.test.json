@@ -1,0 +1,9 @@
+{
+    "platformURL": "http://170.78.5.227:8000",
+    "platformHost": "170.78.5.227",
+    "credentials": {
+        "username": "hospital_batista",
+        "passwd": "temppwd"
+    },
+    "protocol": "digital"
+}
