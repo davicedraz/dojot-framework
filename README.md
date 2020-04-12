@@ -11,7 +11,7 @@ This is a usefull framework to support any Nodejs application that intends to co
 
 For now, this library is being developed internally, so it is necessary to import to yout project linkend to github repository:
 
-    npm install git+https://github.com/davicedraz/dojot-nodejs.git --save
+    npm install git+https://github.com/davicedraz/dojot-framework.git --save
 
 *****
 
