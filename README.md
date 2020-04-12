@@ -1,3 +1,6 @@
+![npm type definitions](https://img.shields.io/npm/types/typescript)
+![version](https://img.shields.io/badge/version-1.1.2-green)
+
 # Dojot Node.js Framework
 
 ## About
