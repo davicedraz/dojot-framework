@@ -9,7 +9,7 @@ This is a usefull framework to support any Nodejs application that intends to co
 
 ## Install
 
-For now, this library is being developed internally, so it is necessary to import to yout project linkend to github repository:
+For now, this library is being developed and it's not ready to become a npm package, so it is necessary to import to your project the entire github repository link:
 
     npm install git+https://github.com/davicedraz/dojot-framework.git --save
 
